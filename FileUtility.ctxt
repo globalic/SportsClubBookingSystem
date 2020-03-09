@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileUtility()
+comment0.text=\r\n\ This\ is\ the\ FileUtility\ Class\ Constructor\ \r\n\ with\ no\ parameters\r\n
+comment1.params=fileName\ data
+comment1.target=void\ writeToFile(java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ This\ method\ is\ used\ to\ save\ data\ into\ a\ file\ \r\n\ specified\ by\ filename\r\n\ @param\ fileName\ is\ the\ name\ of\ the\ file\ \r\n\ @param\ data\ is\ the\ actual\ arrayList\ to\ be\r\n\ stored\ into\ a\ file\r\n\ @throws\ IOException\ to\ check\ for\ any\ errors\r\n\ related\ to\ file\ writing\r\n
+comment2.params=fileName\ data
+comment2.target=void\ writeToLogFile(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ This\ methos\ is\ used\ to\ Write\ data\ to\ file\ \r\n\ @param\ fileName\r\n\ @param\ data\ \r\n
+comment3.params=fileName
+comment3.target=java.util.ArrayList\ readFromFile(java.lang.String)
+comment3.text=\r\n\ This\ method\ is\ used\ to\ read\ data\ from\ a\ file\ \r\n\ specified\ by\ filename\r\n\ @param\ fileName\ is\ the\ name\ of\ the\ file\ \r\n\ @throws\ IOException\ to\ check\ for\ any\ errors\r\n\ related\ to\ file\ reading\r\n
+comment4.params=fileName
+comment4.target=java.util.ArrayList\ readData(java.lang.String)
+comment4.text=\r\n\ This\ method\ is\ used\ to\ read\ data\ from\ a\ file\ \r\n\ specified\ by\ filename\r\n\ @param\ fileName\ is\ the\ name\ of\ the\ file\ \r\n\ @throws\ IOException\ to\ check\ for\ any\ errors\r\n\ related\ to\ file\ reading\r\n
+numComments=5

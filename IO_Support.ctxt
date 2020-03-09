@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=prompt
+comment0.target=java.lang.String\ getString(java.lang.String)
+comment0.text=\r\n\ This\ method\ validates\ the\ String\ input\ from\ the\ user\r\n\ and\ ask\ to\ enter\ it\ again\ if\ it\ fails\ to\r\n\ validate\r\n\ @param\ prompt\ is\ the\ argument\ passed\ from\ the\r\n\ User-Interface\ Class\r\n
+comment1.params=prompt
+comment1.target=java.lang.Double\ getDouble(java.lang.String)
+comment1.text=\r\n\ This\ method\ validates\ the\ double\ input\ from\ the\ user\r\n\ and\ ask\ to\ enter\ it\ again\ if\ it\ fails\ to\r\n\ validate\r\n\ @param\ prompt\ is\ the\ argument\ passed\ from\ the\r\n\ User-Interface\ Class\r\n
+comment2.params=prompt
+comment2.target=java.lang.Integer\ getInteger(java.lang.String)
+comment2.text=\r\n\ This\ method\ validates\ the\ integer\ input\ from\ the\ user\r\n\ and\ ask\ to\ enter\ it\ again\ if\ it\ fails\ to\r\n\ validate\r\n\ @param\ prompt\ is\ the\ argument\ passed\ from\ the\r\n\ User-Interface\ Class\r\n
+comment3.params=toPrint
+comment3.target=void\ println(java.lang.String)
+comment3.text=\r\n\ This\ method\ is\ used\ to\ print\ the\ String\r\n\ passed\ as\ an\ argument\ in\ the\ method\r\n\ @param\ toPrint\ is\ the\ String\ to\ be\ printed\r\n\ as\ passed\ from\ the\ User-Interface\ class\r\n
+comment4.params=
+comment4.target=java.lang.Integer\ getInteger()
+comment4.text=\r\n\ This\ method\ validates\ the\ integer\ input\ from\ the\ user\r\n\ and\ ask\ to\ enter\ it\ again\ if\ it\ fails\ to\r\n\ validate\r\n\ @param\ prompt\ is\ the\ argument\ passed\ from\ the\r\n\ User-Interface\ Class\r\n
+numComments=5

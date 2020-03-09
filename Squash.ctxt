@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Squash()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Squash\ with\ no\ Parameters\r\n
+comment1.params=SquashData
+comment1.target=Squash(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Squash\ with\ Parameters\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\ \ \ \r\n\ This\ is\ a\ toString()\ method\ used\r\n\ to\ print\ the\ Squash\ details\ from\ the\ super\ class\r\n
+numComments=3

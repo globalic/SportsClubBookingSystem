@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tennis()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tennis\ with\ no\ Parameters\r\n
+comment1.params=TennisData
+comment1.target=Tennis(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tennis\ with\ Parameters\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\ \ \ \r\n\ This\ is\ a\ toString()\ method\ used\r\n\ to\ print\ the\ Tennis\ details\ from\ the\ super\ class\r\n
+numComments=3
